@@ -4,7 +4,7 @@
 
 Input commands:
 
-    >> git clone https://github.com/DarkXacker/A-Django-Site-That-Moves-Data-From-Telegram-Channel-To-Channel
+    >> git clone https://github.com/Abdivasiyev2008/A-Django-Site-That-Moves-Data-From-Telegram-Channel-To-Channel
     >> cd A-Django-Site-That-Moves-Data-From-Telegram-Channel-To-Channel
 
 Downloadable libraries:
@@ -28,13 +28,13 @@ Input commands:
 * In the first line, write the name of the channel to which you want to transfer data For example:
 
     ```
-    >> FR13NDS_OFFICIAL
+    >> channel_link
     ```
 
 * In the second line, write the name of the channel from which you want to receive data For example:
 
     ```
-    >> maxBoomUz
+    >> channel2_link
     ```
 
 * And in line 3, you enter the bot token For example:
